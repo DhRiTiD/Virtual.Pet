@@ -1,7 +1,6 @@
 var dog,sadDog,happyDog, database;
 var foodS,foodStock;
 var addFood;
-var FeedTheDog
 var foodObj;
 var feed,lastFed;
 var 
