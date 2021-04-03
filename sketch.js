@@ -3,7 +3,6 @@ var foodS,foodStock;
 var addFood;
 var foodObj;
 var feed,lastFed;
-var 
 var BG;
 
 function preload(){
